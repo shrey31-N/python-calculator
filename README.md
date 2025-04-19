@@ -20,7 +20,3 @@ A simple yet powerful calculator built using Python's Tkinter library. This GUI-
 ---
 
 ## 🖥️ How to Run
-
-1. Clone this repository:
-```bash
-git clone https://github.com/your-username/gui-calculator.git
