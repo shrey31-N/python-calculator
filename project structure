@@ -1,0 +1,5 @@
+gui-calculator/
+│
+├── calculator.py      # Main script
+├── README.md          # This file
+└── screenshot.png     # (Optional) GUI image
